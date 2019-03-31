@@ -1,0 +1,6 @@
+[submodule "packer-builder-arm-image"]
+	path = packer-builder-arm-image
+	url = https://github.com/solo-io/packer-builder-arm-image
+[submodule "vendor/packer-builder-arm-image"]
+	path = vendor/packer-builder-arm-image
+	url = https://github.com/solo-io/packer-builder-arm-image
